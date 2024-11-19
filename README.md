@@ -1,2 +1,2 @@
-# Cadiac Arrest Identification and Monitorying System by Machine Learning Approach Whit Blockchain Security.
+# Cadiac Arrest Identification and Monitorying System by Machine Learning Approach With Blockchain Security.
 
